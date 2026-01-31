@@ -145,7 +145,7 @@ self.__SERVER_FILES_MANIFEST={
       "isExperimentalCompile": false
     }
   },
-  "appDir": "/Users/mac/Documents/newnewnew/client",
+  "appDir": "/Users/mac/Documents/NY/client",
   "relativeAppDir": "",
   "files": [
     ".next/routes-manifest.json",
