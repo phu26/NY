@@ -1,0 +1,26 @@
+[00:00:02.748] Server  LOG     ✓ Ready in 2s
+[00:00:41.931] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:42.171] Browser WARN    Image with src "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?q=80&w=1000" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:42.605] Server  ERROR   ⨯ "upstream image response failed for" "https://images.unsplash.com/photo-1579656381226-5fc7036d6492?q=80&w=1000" 404
+[00:00:42.828] Server  ERROR   ⨯ "upstream image response failed for" "https://images.unsplash.com/photo-1577140917170-285929d55716?q=80&w=1000" 404
+[00:00:42.865] Server  ERROR   ⨯ "upstream image response failed for" "https://images.unsplash.com/photo-1513506003013-d488fa395964?q=80&w=1000" 404
+[00:00:42.957] Server  ERROR   ⨯ "upstream image response failed for" "https://images.unsplash.com/photo-1592078615290-033ee584e277?q=80&w=1000" 404
+[00:00:42.979] Browser WARN    Lit is in dev mode. Not recommended for production! See https://lit.dev/msg/dev-mode for more information.
+[00:00:42.979] Browser ASSERT  true unexpected parse state B
+[00:00:42.979] Browser ASSERT  true unexpected parse state B
+[00:00:42.979] Browser ASSERT  true unexpected parse state B
+[00:00:42.979] Browser WARN    Element model-viewer scheduled an update (generally because a property was set) after an update completed, causing a new update to be scheduled. This is inefficient and should be avoided unless the next update can only be scheduled as a side effect of the previous update. See https://lit.dev/msg/change-in-update for more information.
+[00:00:48.526] Browser WARN    No AR Mode can be activated. This is probably due to missing configuration or device capabilities
+[00:00:49.310] Browser WARN    No AR Mode can be activated. This is probably due to missing configuration or device capabilities
+[00:00:50.076] Browser WARN    No AR Mode can be activated. This is probably due to missing configuration or device capabilities
+[00:00:50.260] Browser WARN    No AR Mode can be activated. This is probably due to missing configuration or device capabilities
+[00:00:57.638] Browser WARN    Image with src "https://images.unsplash.com/photo-1540518614846-7eded433c457?q=80&w=1000" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:57.638] Browser WARN    Image with src "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?q=80&w=1000" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:57.638] Browser WARN    Image with src "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?q=80&w=1000" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:58.189] Server  ERROR   ⨯ "upstream image response failed for" "https://images.unsplash.com/photo-1493663016374-954992524a87?q=80&w=1000" 404
+[00:01:01.712] Browser WARN    No AR Mode can be activated. This is probably due to missing configuration or device capabilities
+[00:01:02.494] Browser WARN    No AR Mode can be activated. This is probably due to missing configuration or device capabilities
+[00:01:03.045] Browser WARN    No AR Mode can be activated. This is probably due to missing configuration or device capabilities
+[00:01:03.244] Browser WARN    No AR Mode can be activated. This is probably due to missing configuration or device capabilities
+[00:01:03.443] Browser WARN    No AR Mode can be activated. This is probably due to missing configuration or device capabilities
+[00:01:03.627] Browser WARN    No AR Mode can be activated. This is probably due to missing configuration or device capabilities
